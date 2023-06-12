@@ -1,0 +1,11 @@
+Problem statement : Attached is the orders data for a set of procurement purchase orders. Build a model using Python to predict if an order will be cancelled or not. Analyze the data and provide the factors influencing cancellation of an order.
+
+Expectations –
+• Exploratory data analysis of the order data
+• Sub setting the relevant data
+• Analysis of the factors influencing order cancellation
+• Classification model for the prediction problem
+• Accuracy and other metrics
+• Presentation of the solution with analysis.
+
+Output: Send us two or three Power point slides that summarizes the above, along with other working files
